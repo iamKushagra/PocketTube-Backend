@@ -23,7 +23,6 @@ With this Web Application, we aim to the host video and stream it with an easy-t
 ```
 $ npm install
 $ npm run dev
-
 ```
 
 ## License 📜
